@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/signup_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_login_signup">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+
+
+        <TextView
+            android:id="@+id/delete_group_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center"
+            android:text="@string/delete_message"
+            android:padding="10dp"
+            android:textColor="@color/input_register"
+            android:textColorHint="@color/input_register_hint"
+            android:layout_marginTop="140dp"
+            android:textSize="18sp"
+            />
+
+
+        <Button
+            android:id="@+id/delete_the_group_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:background="@color/btn_login_signup"
+            android:text="@string/delete_the_group"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+</RelativeLayout>

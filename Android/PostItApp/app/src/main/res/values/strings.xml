@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PostItApp</string>
+    <string name="log_in_button">LOG IN</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="group_text">Groups</string>
+    <string name="post_text">Posts</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_postname">Postname</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="btn_link_to_login">Already Registered? Log in.</string>
+    <string name="btn_link_to_signup">Not registered yet? Join us now.</string>
+    <string name="hint_groupname">Group Name</string>
+    <string name="add_new_group">Add New Group</string>
+    <string name="join_the_group">JOIN THE GROUP</string>
+    <string name="row_name">Row Name</string>
+    <string name="submit_the_post">SUBMIT THE POST</string>
+    <string name="write_post">Write your post here!</string>
+    <string name="change_the_post">CHANGE THE POST</string>
+    <string name="delete_message">Delete Message</string>
+    <string name="delete_the_group">DELETE THE GROUP</string>
+    <string name="delete_the_post">DELETE THE POST</string>
+
+</resources>
